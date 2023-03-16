@@ -1,0 +1,13 @@
+D:\Users\Administrator\Documents\C#Test\SampleServer\bin\Debug\SampleServer.exe.config
+D:\Users\Administrator\Documents\C#Test\SampleServer\bin\Debug\SampleServer.exe
+D:\Users\Administrator\Documents\C#Test\SampleServer\bin\Debug\SampleServer.pdb
+D:\Users\Administrator\Documents\C#Test\SampleServer\bin\Debug\Reader.dll
+D:\Users\Administrator\Documents\C#Test\SampleServer\obj\Debug\SampleServer.csproj.SuggestedBindingRedirects.cache
+D:\Users\Administrator\Documents\C#Test\SampleServer\obj\Debug\SampleServer.Properties.Resources.resources
+D:\Users\Administrator\Documents\C#Test\SampleServer\obj\Debug\SampleServer.csproj.GenerateResource.cache
+D:\Users\Administrator\Documents\C#Test\SampleServer\obj\Debug\SampleServer.csproj.CoreCompileInputs.cache
+D:\Users\Administrator\Documents\C#Test\SampleServer\obj\Debug\SampleServer.csproj.CopyComplete
+D:\Users\Administrator\Documents\C#Test\SampleServer\obj\Debug\SampleServer.exe
+D:\Users\Administrator\Documents\C#Test\SampleServer\obj\Debug\SampleServer.pdb
+D:\Users\Administrator\Documents\C#Test\SampleServer\obj\Debug\SampleServer.Form1.resources
+D:\Users\Administrator\Documents\C#Test\SampleServer\obj\Debug\SampleServer.csproj.AssemblyReference.cache
